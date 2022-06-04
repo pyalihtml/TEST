@@ -1,0 +1,37 @@
+body{
+    width: 98%;
+    height: 100%;
+    background-image: url(Information.png);
+    background-size: cover;
+}
+
+h2 , li{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.btn {
+    display: block;
+    position: relative;
+    margin: 10px;
+    background-color: red;
+    text-decoration: none;
+    color: white;
+    width: 50px;
+    height: 20px;
+    text-align: center;
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.btn:hover{
+    background-color: #000;
+    text-decoration: none;
+    color:#fff;
+    transition: 0.7s;
+}
