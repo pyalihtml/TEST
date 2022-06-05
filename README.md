@@ -9,4 +9,4 @@ Baş düşmanımızın bize bıraktığı cesetlerle yeni ipuçları buluyor ve 
 We find new clues with the corpses left by our archenemy and try to reach our enemy.
 - We are someone who can solve mysteries very well in the role of DETECTIVE in the game.
 
-https://youtu.be/I7QLrLH_lKE
+**Game Teaser On Youtube** https://youtu.be/I7QLrLH_lKE
