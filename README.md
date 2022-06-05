@@ -9,4 +9,4 @@ Baş düşmanımızın bize bıraktığı cesetlerle yeni ipuçları buluyor ve 
 We find new clues with the corpses left by our archenemy and try to reach our enemy.
 - We are someone who can solve mysteries very well in the role of DETECTIVE in the game.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?pyalihtml=horisee&label=Profile%20views&color=0e75b6&style=flat" alt="horise" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/pyalihtml=horisee&label=Profile%20views&color=0e75b6&style=flat" alt="horise" /> </p>
