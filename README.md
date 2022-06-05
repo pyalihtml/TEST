@@ -11,4 +11,4 @@ We find new clues with the corpses left by our archenemy and try to reach our en
 
 **Game Teaser On Youtube** https://youtu.be/I7QLrLH_lKE
 
-<img src="https://github.com/pyalihtml/TEST/blob/main/Gif%20-%20Read%20me.gif?raw=true" width="350px" cursor="none">
+<img src="https://github.com/pyalihtml/TEST/blob/main/Gif%20-%20Read%20me.gif?raw=true" width="350px">
