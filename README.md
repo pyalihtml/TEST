@@ -2,7 +2,7 @@
 Bu bir deneme kodudur, değişen bazı saçma şeyler olacaktır.
 
 **TR** :
-Baş düşmanımızın bize bıraktığı cesetlerle yeni ipuçları buluyor ve düşmanımıza ulaşmaya çalışıyoruz.
+Baş düşmanımızın bıraktığı cesetlerle yeni ipuçları buluyor ve düşmanımıza ulaşmaya çalışıyoruz.
 - Oyunda DEDEKTİF rolünde gizemleri çok iyi çözebilen biriyiz.<br>
 **Önemli Not !** : Oyun Bilgisayarda oynanılmalıdır, Telefonda bazı hatalar çıkmaktadır.
 
