@@ -1,5 +1,5 @@
 # TEST
-Bu bir deneme kodudur, değişen bazı saçma şeyler olacaktır.
+Bu bir deneme kodudur, değişen bazı şeyler olacaktır.
 
 **TR** :
 Baş düşmanımızın bıraktığı cesetlerle yeni ipuçları buluyor ve düşmanımıza ulaşmaya çalışıyoruz.
