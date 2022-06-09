@@ -5,14 +5,11 @@ body{
     background: #181620;
 }
 
-.text{
+fieldset{
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 300px;
-}
-
-fieldset{
     user-select: none;
     text-align: center;
     color: white;
@@ -21,19 +18,22 @@ fieldset{
     max-height: auto;
 }
 
-.href {
+.btn {
+    display: block;
+    position: relative;
+    align-items: center;
     margin: 10px;
     background-color: red;
     text-decoration: none;
     color: white;
-    width: 90px;
+    width: 50px;
     height: 20px;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 10px;
     transition: 1s;
 }
 
-.href:hover{
+.btn:hover{
     background-color: #000;
     text-decoration: none;
     color:#fff;
