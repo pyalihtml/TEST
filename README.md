@@ -13,4 +13,4 @@ We find new clues with the corpses left by our archenemy and try to reach our en
 
 **Game Teaser On Youtube** https://youtu.be/I7QLrLH_lKE <br><br>
 
-<iframe width="980" height="551" src="https://www.youtube.com/embed/I7QLrLH_lKE" title="The Secrets : Blind Man's Story / Teaser - 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I7QLrLH_lKE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
