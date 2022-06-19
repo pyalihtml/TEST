@@ -12,5 +12,3 @@ We find new clues with the corpses left by our archenemy and try to reach our en
 **Important note !** : The game must be played on the computer, there are some errors on the phone.
 
 **Game Teaser On Youtube** https://youtu.be/I7QLrLH_lKE <br><br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I7QLrLH_lKE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
