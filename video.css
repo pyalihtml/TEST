@@ -21,7 +21,8 @@ section {
     left: 0;
 }
 
-h1{
+.content , h1{
+    text-shadow: red -2px 0, cyan 1px 0;
     font-family: 'Courier New', Courier, monospace;
 }
 
