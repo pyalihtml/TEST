@@ -24,6 +24,10 @@ section {
 h1{
     text-shadow: red -2px 0, cyan 1px 0;
     font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    text-align: center;
+    width: 70%;
+    font-size: 2rem;
 }
 
 span {
@@ -32,13 +36,6 @@ span {
 
 .dash {
     color: #42f642;
-}
-
-h1 {
-    color: #fff;
-    text-align: center;
-    width: 70%;
-    font-size: 2rem;
 }
 
 video {
